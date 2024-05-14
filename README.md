@@ -29,7 +29,7 @@ The architecture utilizes the UNet framework, known for its effectiveness in sem
 - Enhance the architecture to incorporate advanced features and improve segmentation accuracy further.
 
 ## Contributors
-- [Ankith Reddy Avula]
+- Ankith Reddy Avula
 
 ## License
 This project is licensed under the [Apache License 2.0](LICENSE).
